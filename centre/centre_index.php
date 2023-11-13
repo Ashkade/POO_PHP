@@ -34,13 +34,11 @@
         echo $magne->age . PHP_EOL;
         $magne-> danser();
         $toutlenom=$magne-> nomComplet();
-        echo $toutlenom;
+        echo "Le nom complet est $toutlenom";
         // echo $magne ->prenom . PHP_EOL;
 
         // echo $isaac ->prenom . PHP_EOL;
 
-
-
+        echo '<br><br>---------------------------------------<br><br>';
 
     ?>
-    </div>

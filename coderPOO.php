@@ -13,8 +13,7 @@
     
     <?php
         include_once('header.php');
-        include_once('centre/centre_index.php');
-        include_once('centre/Car.php');
+        include_once('centre/centre_coderPOO.php');
         include_once('footer.php');
     ?>
 
